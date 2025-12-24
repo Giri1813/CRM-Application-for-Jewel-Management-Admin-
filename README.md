@@ -1,2 +1,2 @@
-# Jewelry-Inventory-System-Salesforce
-Salesforce Admin project – Jewelry Inventory System (SmartInternz)
+# CRM Application for Jewel Management – (Admin)
+Salesforce Admin project – CRM Application for Jewel Management – (Admin)
